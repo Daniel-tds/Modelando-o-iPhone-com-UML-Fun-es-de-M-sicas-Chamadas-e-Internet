@@ -1,6 +1,6 @@
 # Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
-Este projeto é uma implementação em Java que simula as funcionalidades do iPhone com base no vídeo de lançamento do iPhone, modeladas com UML, contemplando:
+Este projeto é uma implementação em Java/UML que simula as funcionalidades do iPhone com base no vídeo de lançamento do iPhone, modeladas com UML, contemplando:
 
 - Reprodutor Musical (tocar, pausar, selecionar música)
 - Aparelho Telefônico (ligar, atender, iniciar correio de voz)
